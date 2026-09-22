@@ -43,7 +43,7 @@ Afterwards, check **Human Interface Devices** again and verify that **Logitech G
 
 ### **2. Install the Tool**
 
-Once the virtual driver has been successfully installed, download the latest `python.exe` from the **Releases** section.
+Once the virtual driver has been successfully installed, download the latest `test_mouse.exe` from the **Releases** section.
 
 > [!CAUTION]
 > **The executable must be run as Administrator.**
