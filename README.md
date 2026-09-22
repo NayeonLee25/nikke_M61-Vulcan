@@ -4,12 +4,29 @@
 
 
 
-![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY)
-![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY)
-![GitHub issues](https://img.shields.io/github/issues/USER/REPOSITORY)
 
 
+> [!NOTE]
+> I am not a programmer. This code was created with the help of AI.
+
+> [!WARNING]
+> Disclaimer: This software is provided "as is", without warranty of any kind.
+> Use it at your own risk. The author is not responsible for any damage, data loss, system issues, or other consequences resulting from the use or misuse of this software.
+
+
+
+
+> [!NOTE]
+> Das ist ein Hinweis.
+
+> [!TIP]
+> Hier ist ein Tipp.
+
+> [!IMPORTANT]
+> Das solltest du beachten.
 
 > [!WARNING]
 > Achtung!
 
+> [!CAUTION]
+> Vorsicht!
