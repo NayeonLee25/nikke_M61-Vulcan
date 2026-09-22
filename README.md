@@ -1,4 +1,4 @@
-# nikke_-M61-Vulcan
+# nikke_M61-Vulcan
 
 
 >[!WARNING]
