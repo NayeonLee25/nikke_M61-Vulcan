@@ -10,7 +10,7 @@
 
 >[!CAUTION]
 >Using this tool in online games may result in a permanent ban.
->The use of this tool may violate the Terms of Service, rules, or anti-cheat policies of certain online games. As a result, your account may be permanently banned or otherwise restricted. Use this tool at your own risk. The author is not responsible for any bans, suspensions, account restrictions, or other >consequences resulting from its use.
+>The use of this tool may violate the Terms of Service, rules, or anti-cheat policies of certain online games. As a result, your account may be permanently banned or otherwise restricted. Use this tool at your own risk. The author is not responsible for any bans, suspensions, account restrictions, or other consequences resulting from its use.
 
 
 ## **Requirements**
@@ -55,26 +55,14 @@ Once the virtual driver has been successfully installed, download the latest `py
 
 ## **Setup & Usage**
 
-### **Mouse Button Configuration**
-
-Your mouse must have configurable side buttons.
-
-The current configuration expects the following mouse inputs:
-
-| Input | Function |
-|---|---|
-| Left Click | Burst 1 |
-| Middle Click | Burst 2 |
-| XButton1 | Burst 3 |
-| XButton2 | Charged Shot |
+### **Burst Controls**
 
 Configure your mouse controls accordingly.
-
-### **Burst Controls**
 
 Your control scheme for the burst inputs should look **exactly like this**:
 
 <img width="594" height="445" alt="Burst control configuration" src="https://github.com/user-attachments/assets/2a743de4-0317-4d21-aa60-4d75db60d925" />
+
 
 The following keyboard inputs are used:
 
@@ -91,17 +79,16 @@ The following keyboard inputs are used:
 
 Holding the **`C`** key triggers the charged shot.
 
-The timing is currently hard-coded:
+Timing is currently hard-coded:
 
 - **200 ms** charge time
 - **20 ms** input buffer
-- Values **cannot currently be changed** without modifying the source code.
 
 ### **Burst Timing**
 
 Keys **`1`**, **`2`**, and **`3`** trigger their corresponding burst.
 
-The timing is currently hard-coded to:
+Timing is currently hard-coded to:
 
 - **2 ms** click duration
 - **14 ms** delay between inputs
